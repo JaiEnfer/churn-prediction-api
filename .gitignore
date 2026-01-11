@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Data (don’t upload datasets)
+data/
+
+# Logs
+*.log
